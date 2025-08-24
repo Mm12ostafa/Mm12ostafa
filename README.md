@@ -5,17 +5,15 @@
 #👋 Hi, I'm Mostafa Mousa Soliman
 ### 🚀 AI Engineer | Machine Learning & Deep Learning
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=MostafaMousa&style=flat&color=blue&label=PROFILE+VIEWS)
+[![telegram badge](https://img.shields.io/badge/MostafaMousa-grey?style=flat&logo=telegram)](https://t.me/yourTelegramLink)  
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin)  
+[![gmail badge](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+
+---
 
 <hr></hr>
 
