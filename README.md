@@ -2,7 +2,7 @@
      
 ###
 
-<h2 align="center">Machine Learning Engineer 🤖 | Microsoft Student Ambassador | Software Engineer 💻 
+<h2 align="center">Machine Learning Engineer 🤖 | Data Analyst | Software Engineer 💻 
 
 ###
 
@@ -28,18 +28,6 @@
   </a>
   <a href="https://api.whatsapp.com/send?phone=201282010827" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.youtube.com/@aliarabi55" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.com/invite/Nv2B5UTtuk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://medium.com/@aliarabi55" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://www.facebook.com/AliArabi55/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
 
