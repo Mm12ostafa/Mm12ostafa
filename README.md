@@ -6,10 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=AliArabi55&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=AliArabi55&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=20&order=3" height="200" alt="streak graph"  />
-</div>
 
 ###
 
