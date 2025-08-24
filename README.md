@@ -50,14 +50,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="35" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="35" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
-</div>
+ 
+ 
 
 ###
 
